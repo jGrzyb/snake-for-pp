@@ -1,4 +1,4 @@
-# Witam w moim projekcie **snake-for-pp**!
-Jest to gra Snake działająca w konsoli. (Działa tylko na Windows-ie,ponieważ wykorzystuje biblioteki windows.h i conio.h)
+# Snake in console?!
+This is Snake game written in c++ that works in command line (CMD). Just download and run this [program](https://github.com/jGrzyb/snake-for-pp/blob/main/snake-v0.1.exe)! (It works only on Windows)
 
 ![o1](Snake1.png)
